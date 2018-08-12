@@ -1,0 +1,27 @@
+{
+  "name": "finder",
+  "version": "1.0.0",
+  "description": "stop being lonely and find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauxatlus/finder.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "randy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauxatlus/finder/issues"
+  },
+  "homepage": "https://github.com/fauxatlus/finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
